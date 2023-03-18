@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prerana Chakraborty .
-- 👀 I am a freelancer with knowledge in `Python`, `Exploratory Data Analysis`, `Machine Learning`, `NLP`, `Deep learning`. I have a
+- 👀 I am a Data Science Enthusiast with knowledge in `Python`, `Pytorch`, `Exploratory Data Analysis`, `Machine Learning`, `NLP`, `Deep learning`. I have a
 thorough understanding of Numpy, Matplotlib, Pandas,Scikit-Learn ,Seaborn and SQL. I have also solved some real-world case
 studies and authored a Research Paper in Springer AISC Book Series. 
 - 💞️ I’m looking to collaborate on `Data Science Projects` .
