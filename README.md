@@ -2,7 +2,7 @@
 I am Prerana, passionate about solving complex business problems and not afraid of pushing my limits into unknown domains. 
 I may not be knowing everything, but it's my attitude towards work that helps me get things done.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/prerana-chakraborty-44b9931a3/)
 &nbsp;
 
 ## TECH STACK 
